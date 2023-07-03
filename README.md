@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba Módulo 2 PrepCourse Henry
+Lola Sánchez
+Prueba de creación de rep desde GitHub y clonación local
